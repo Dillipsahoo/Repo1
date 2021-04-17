@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 689D-39BE
+
+ Directory of C:\gitproj1
+
+18-04-2021  00:53    <DIR>          .
+18-04-2021  00:53    <DIR>          ..
+18-04-2021  00:53                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  27,689,091,072 bytes free
